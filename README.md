@@ -13,3 +13,4 @@
 **MENTOR NAME**: Neela Santhosh Kumar
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS 
+#**output**![task1 output](https://github.com/user-attachments/assets/7a4d0aa3-1ba0-4650-96bf-855e25e2cdc1)
